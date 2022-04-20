@@ -1,0 +1,13 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+nav, footer{
+    background-color: #000080;
+}
+
+.overlay {
+    position: fixed;
+}
