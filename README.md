@@ -5,11 +5,6 @@
 
 **Product Specification**
 
-Version *1.0*
-
-*03/31/2022*
-
-Aqdim, Mehdi
 
 **Table Of Contents**
 
@@ -130,6 +125,4 @@ Migrations folder -> Delivery\BankingPHP\database\migrations
 
 Use\_Cases.pdf -> Delivery\Use\_Cases.pdf
 
-Forget About Your Money
 
-4
