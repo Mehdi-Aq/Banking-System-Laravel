@@ -1,50 +1,8 @@
 # Banking-System-Laravel
 
+Banking Web app allowing user authentification and money transfers between user accounts.
 
-***FAYM Bank System*** 
-
-**Product Specification**
-
-
-**Table Of Contents**
-
-# **Table of Contents**
-[1. INTRODUCTION    2](#_Toc99576795)
-
-[1.1.   PURPOSE OF THE PRODUCT DESIGN SPECIFICATION DOCUMENT    3](#_Toc99576796)
-
-[2. GENERAL OVERVIEW AND DESIGN GUIDELINES/APPROACH 2](#_Toc99576797)
-
-[2.1.   ASSUMPTIONS / CONSTRAINTS / STANDARDS   3](#_Toc99576798)
-
-[3. ARCHITECTURE DESIGN 2](#_Toc99576799)
-
-[3.1.   LOGICAL VIEW    3](#_Toc99576800)
-
-[3.2.   HARDWARE ARCHITECTURE   3](#_Toc99576801)
-
-[3.3.   SOFTWARE ARCHITECTURE   3](#_Toc99576802)
-
-[3.4.   SECURITY ARCHITECTURE   3](#_Toc99576803)
-
-[3.5.   COMMUNICATION ARCHITECTURE  3](#_Toc99576804)
-
-[4. SYSTEM DESIGN   2](#_Toc99576805)
-
-[4.1.   USE-CASES   2](#_Toc99576806)
-
-[4.2.   DATABASE DESIGN 2](#_Toc99576807)
-
-[4.3.   APPLICATION PROGRAM INTERFACES  2](#_Toc99576808)
-
-[4.4.   USER INTERFACE DESIGN   2](#_Toc99576809)
-
-[5. PRODUCT DESIGN SPECIFICATION APPROVAL   2](#_Toc99576810)
-
-[Appendix A: References 4](#_Toc99576811)
-
-
-
+Developed with PHP's framwork Laravel, Blade, Bootstrap, HTML and CSS.
 
 1. # **INTRODUCTION**
    1. ## **PURPOSE OF THE PRODUCT DESIGN SPECIFICATION DOCUMENT**
@@ -106,9 +64,15 @@ Technology:
    - The FAYM Bank System employs Laravel PHP Framework for communication between onsite server and offsite cloud database
 1. # **SYSTEM DESIGN**
    1. ## ` `**USE-CASES**
-   - [FAYM-Use-Cases.jpg](FAYM-Use-Cases.jpg)
+   - Application use cases and scenarios:
+   
+   ![FAYM-Use-Cases.jpg](FAYM-Use-Cases.jpg)
+   
    1. ## ` `**DATABASE DESIGN**
-   - Database design will be implemented as specified in [ER_Diagram.png](ER_Diagram.png)
+   - Database design will be implemented as specified in the ER diagram:
+   
+   ![ER_Diagram.png](ER_Diagram.png)
+   
    - Database tables will be created using migration scripts in Migration folder\*
    1. ## ` `**APPLICATION PROGRAM INTERFACES**
 
