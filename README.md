@@ -201,8 +201,7 @@ Technology:
 
 ###### USER INTERFACE DESIGN
 - User Interface Design will be controlled by blade.php scripts that can be located inside the Views folder\*
-### PRODUCT DESIGN SPECIFICATION APPROVAL
-The undersigned acknowledge they have reviewed the FAYM Bank Project Specification document and agree with the approach it presents. Any changes to this Requirements Definition will be coordinated with and approved by the undersigned or their designated representatives.
+
 
 #### Appendix A: References
 
